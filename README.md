@@ -1,10 +1,6 @@
 ### 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs,react,tailwind,bun,nodejs,flask,prisma,postgres,mongodb,tauri,electron&perline=8&perpetual=true" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs,react,tailwind,bun,nodejs,flask,prisma,postgres,mongodb,tauri,electron&perline=8&perpetual=true" />
 
 ---
 
