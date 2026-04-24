@@ -1,6 +1,6 @@
 ### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs,react,tailwind,bun,nodejs,fastapi,prisma,postgres,mongodb,electron,windows&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs,react,tailwind,bun,nodejs,fastapi,prisma,postgres,electron,windows,apple&perline=8" />
 
 ---
 
