@@ -6,4 +6,4 @@
 
 ### 🌐 Links / Contact
 
-[![Website](https://img.shields.io/badge/Website-yukip02.com-black?style=for-the-badge&logo=safari&logoColor=white)](https://yukip02.com/)
+[![Website](https://img.shields.io/badge/yukip02.com-black?style=for-the-badge)](https://yukip02.com/)
